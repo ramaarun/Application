@@ -22,7 +22,7 @@ import { Landing } from './pages/Landing';
 export function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter basename="/interview-assist">
+      <BrowserRouter basename="/Application">
         <Toaster position="top-right" />
         <Routes>
           <Route path="/" element={<Landing />} />
