@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/ramaarun/Application.git",
+  "homepage": "https://ramaarun.github.io/Application",
   "scripts": {
     "dev": "npx vite",
     "build": "npx vite build",
